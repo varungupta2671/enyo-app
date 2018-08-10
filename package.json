@@ -1,0 +1,8 @@
+{
+  "name": "enyo-app",
+  "main": "index.js",
+  "assets": [],
+  "styles": [],
+  "devAssets": [],
+  "moduleDir": "src"
+}
